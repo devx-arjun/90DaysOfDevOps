@@ -30,5 +30,3 @@ docker rm my-nginx
 
 ## 8. Check everything
 docker ps -a
-
-# Task 4
